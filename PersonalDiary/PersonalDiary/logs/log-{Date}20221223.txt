@@ -1,0 +1,5 @@
+[19:35:05:995 INF ()] Now listening on: https://localhost:7073
+[19:35:06:492 INF ()] Now listening on: http://localhost:5298
+[19:35:06:515 INF ()] Application started. Press Ctrl+C to shut down.
+[19:35:06:516 INF ()] Hosting environment: Development
+[19:35:06:516 INF ()] Content root path: C:\Users\zagor\Desktop\PersonalDiary\PersonalDiary\
